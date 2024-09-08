@@ -1,0 +1,4 @@
+export ARM_TENANT_ID="XXXXXX"
+export ARM_CLIENT_ID="XXX"
+export ARM_CLIENT_SECRET="XXX"
+export ARM_TENANT_ID="XXXX"
